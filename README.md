@@ -1,4 +1,4 @@
-# 🚖 Uber Rides Data Analysis using Python
+# 🚖 Uber Rides Data Analysis
 
 A comprehensive **Exploratory Data Analysis (EDA)** project on the Uber Rides Dataset using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. This project analyzes ride patterns, trip purposes, travel distances, ride categories, and temporal trends to uncover meaningful business insights through data visualization and statistical analysis.
 
